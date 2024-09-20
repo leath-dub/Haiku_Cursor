@@ -1,0 +1,3 @@
+[submodule "haiku-icons"]
+	path = haiku-icons
+	url = https://github.com/darealshinji/haiku-icons
